@@ -10,4 +10,4 @@
 [Material Design](https://material.io/)
 
 
-![Hello World Travel](../images/hello-world-travel.jpg)
+<img src="./images/hello-world-travel.jpg" alt="Hello World Travel" width="50%" >
