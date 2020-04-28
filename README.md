@@ -14,3 +14,6 @@ flutter doctor
 flutter create hello_world
 flutter run
 ```
+
+### 项目一：Hello World Travel 
+<img src="./images/hello-world-travel.jpg" alt="Hello World Travel" width="50%" >
