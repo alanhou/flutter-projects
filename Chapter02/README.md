@@ -9,7 +9,7 @@
 
 ## 项目最终效果
 
-<img src="../images/converter.jpg" alt="项目最终效果" >
+<img src="../images/converter.jpg" width="50%" alt="项目最终效果" >
 
 ## 扩展阅读
 
