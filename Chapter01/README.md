@@ -9,11 +9,8 @@
 
 [Material Design](https://material.io/)
 
-<center class="half">
-<figure>
 <img src="../images/hello-world-travel.jpg" alt="Hello World Travel" width="45%" ><img src="../images/hello-world-travel-dialog.jpg" alt="Hello World Travel" width="45%" >
-</figure>
-</center>
+
 
 ## 扩展阅读
 
