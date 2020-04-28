@@ -11,3 +11,10 @@
 
 
 <img src="../images/hello-world-travel.jpg" alt="Hello World Travel" width="50%" >
+
+## 扩展阅读
+
+* [Flutter安装](https://flutter.dev/docs/get-started/install)
+* [Chrome OS 安装 Flutter](https://proandroiddev.com/flutter-development-on-a-pixelbook-dde984a3fc1e)
+* [Material Design](https://material.io/)
+* [Flutter Community on Medium](https://medium.com/flutter-community)
