@@ -10,7 +10,7 @@
 [Material Design](https://material.io/)
 
 <center class="half">
-<img src="../images/hello-world-travel.jpg" alt="Hello World Travel" width="50%" ><img src="../images/hello-world-travel-dialog.jpg" alt="Hello World Travel" width="50%" >
+<img src="../images/hello-world-travel.jpg" alt="Hello World Travel" width="45%" ><img src="../images/hello-world-travel-dialog.jpg" alt="Hello World Travel" width="45%" >
 </center>
 
 ## 扩展阅读
