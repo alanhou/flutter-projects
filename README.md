@@ -29,3 +29,7 @@ stful
 
 ### 项目三：Productivity Timer
 <img src="./images/productivity_timer_main.jpg" width="50%" alt="定时器项目最终效果" ><img src="./images/productivity_timer_settings.jpg" width="50%" alt="定时器项目配置页面" >
+
+
+### 项目四：Pong Game
+<img src="./images/pong-game.gif" width="50%" alt="弹球游戏" >
