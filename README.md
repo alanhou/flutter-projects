@@ -33,3 +33,7 @@ stful
 
 ### 项目四：Pong Game
 <img src="./images/pong-game.gif" width="50%" alt="弹球游戏" >
+
+### 项目五：Let's Go to the Movies
+
+<img src="./images/movie-search.jpg" width="33%" alt="电影搜索页面" ><img src="./images/movie-list.jpg" width="33%" alt="电影列表页面" ><img src="./images/movie-detail.jpg" width="33%" alt="电影详情页面" >
