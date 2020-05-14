@@ -37,3 +37,7 @@ stful
 ### 项目五：Let's Go to the Movies
 
 <img src="./images/movie-search.jpg" width="33%" alt="电影搜索页面" ><img src="./images/movie-list.jpg" width="33%" alt="电影列表页面" ><img src="./images/movie-detail.jpg" width="33%" alt="电影详情页面" >
+
+### 项目六：Shopping List
+
+<img src="./images/shopping-home.jpg" width="50%" alt="购物清单首页" ><img src="./images/shopping-item.jpg" width="50%" alt="购物清单子项" >
